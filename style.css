@@ -179,7 +179,11 @@ footer p {
   grid-row: 2;
   box-shadow: 15px 15px 5px 0;
  }
+ .home__imgs {
+  justify-content: center;
+ }
  .home__imgs img {
+  width: 300px;
   box-shadow: 15px 15px 5px 0;
 
  }
